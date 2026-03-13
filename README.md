@@ -21,7 +21,7 @@ The dashboard design was first prototyped in Figma to ensure a clear analytical 
     Defence Rating
     Points per Match
 
-Dashboard Preview
+##Dashboard Preview
 
 <img width="1394" height="796" alt="Dashboard - Premier League" src="https://github.com/user-attachments/assets/d625e0d5-f55e-4e60-bae3-00da6083196b" />
 
