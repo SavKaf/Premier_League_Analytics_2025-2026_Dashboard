@@ -14,16 +14,16 @@ The transformed data is modeled into fact and dimension tables to support analyt
 - Analytical data model for football performance metrics
 - Interactive Power BI dashboard
 
-## ## Key Metrics
+## Key Metrics
 
 The dashboard includes several custom performance indicators to evaluate team performance:
 
-- Form Index**: A calculated metric that reflects a team's recent performance based on match results.
-- Momentum Indicator**: Shows whether a team is improving, declining, or maintaining stable performance.
-- Last 5 Matches**: Visual representation of recent results to quickly identify performance trends.
-- Attack Rating**: A metric that measures offensive strength based on goals scored and attacking statistics.
-- Defence Rating**: Indicates defensive performance based on goals conceded and defensive statistics.
-- Points per Match**: Average number of points earned per match throughout the season.
+- Form Index: A calculated metric that reflects a team's recent performance based on match results.
+- Momentum Indicator: Shows whether a team is improving, declining, or maintaining stable performance.
+- Last 5 Matches: Visual representation of recent results to quickly identify performance trends.
+- Attack Rating: A metric that measures offensive strength based on goals scored and attacking statistics.
+- Defence Rating: Indicates defensive performance based on goals conceded and defensive statistics.
+- Points per Match: Average number of points earned per match throughout the season.
 
 
 ## Dashboard Preview
