@@ -3,9 +3,9 @@ Premier League Analytics Dashboard for season 2025/26
 
 ### Project Overview
 
-This project presents an end-to-end football analytics pipeline built using Databricks and Power BI. Data is automatically ingested from the Football API and processed in Databricks Community Edition through an ETL pipeline that structures the data into analytical tables. The processed data is then connected to Power BI, where an interactive dashboard was developed to visualize team performance, attacking and defensive metrics, and league dynamics.
+This project presents an end-to-end football analytics pipeline built using Databricks and Power BI. Data is automatically ingested from a Football API and processed in Databricks Community Edition through an ETL pipeline that structures the data into dimension and fact tables. The processed data is then connected to Power BI, where an interactive dashboard was developed to visualize team performance, attacking and defensive metrics, and league dynamics.
 
-The dashboard design was first prototyped in Figma to ensure a clear analytical layout and intuitive user experience. Key analytics features include team momentum indicators, a custom Form Index metric, recent match performance (Last 5 Matches), attacking and defensive ratings, and league standings. These insights allow users to quickly evaluate team performance trends and compare teams across the league.
+The dashboard design was first prototyped in Figma to ensure a clear analytical layout and intuitive user experience. Key analytics features include team momentum indicators, a custom Form Index metric, recent match performance (Last 5 Matches), attacking and defensive ratings, points per match and league standings. These insights allow users to quickly evaluate team performance trends and compare teams across the league.
 
 ## Key Features
 
